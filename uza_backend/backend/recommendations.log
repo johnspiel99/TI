@@ -78,3 +78,8 @@
 2025-05-14 14:20:19,767 - 127.0.0.1 - - [14/May/2025 14:20:19] "GET /api/products HTTP/1.1" 200 -
 2025-05-14 14:20:20,019 - 127.0.0.1 - - [14/May/2025 14:20:20] "GET /api/products HTTP/1.1" 200 -
 2025-05-14 14:24:12,376 -  * Detected change in 'C:\\Users\\jsnju\\OneDrive\\Desktop\\TI\\uza_backend\\backend\\products.py', reloading
+2025-05-14 14:24:13,065 -  * Restarting with stat
+2025-05-14 14:24:15,682 -  * Debugger is active!
+2025-05-14 14:24:15,688 -  * Debugger PIN: 689-533-253
+2025-05-14 14:26:05,098 - 127.0.0.1 - - [14/May/2025 14:26:05] "GET /api/products HTTP/1.1" 200 -
+2025-05-14 14:26:05,345 - 127.0.0.1 - - [14/May/2025 14:26:05] "GET /api/products HTTP/1.1" 200 -
